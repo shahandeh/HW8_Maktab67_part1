@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HW8_Maktab67_partOne</string>
+    <string name="register" translatable="false">Register</string>
+    <string name="info">Show Info</string>
+    <string name="name">Full Name</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="re_type">Re-type Password</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="gender">Gender</string>
+    <string name="hide">Hide Info</string>
+</resources>
